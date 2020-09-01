@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "node first hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realtril/goit-node-hw-01.git"
+  },
+  "author": "Oleksandr Tril",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realtril/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/realtril/goit-node-hw-01#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "uid": "^1.0.0",
+    "yargs": "^15.4.1"
+  }
+}
